@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A5CFF,50:1E90FF,100:00E5FF&height=200&section=header&text=&fontSize=0&animation=fadeIn&fontAlignY=50" width="100%" alt="wave header"/>
 
-<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/assets/banner.png" width="85%" alt="CodeExpertX - Elevating Development"/>
+<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/banner.png" width="85%" alt="CodeExpertX - Elevating Development"/>
 
 <br/>
 
