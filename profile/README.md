@@ -26,7 +26,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Whatever your stack, whatever your idea — we help you ship it. 🚀
 
 </div>
 
-<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/divider.svg" width="100%"/>
 
 <div align="center">
 
