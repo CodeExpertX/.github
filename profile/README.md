@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:040A1E,50:0A5CFF,100:00E5FF&height=120&section=header&animation=fadeIn" width="100%"/>
 
 <!-- ✨ Custom animated hero (particles, scan line, glowing title) -->
-<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/assets/header.svg" width="100%" alt="CodeExpertX - Elevating Development"/>
+<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/header.svg" width="100%" alt="CodeExpertX - Elevating Development"/>
 
 <!-- ⌨️ Typing line -->
 <a href="https://github.com/CodeExpertX">
@@ -47,27 +47,27 @@ Whatever your stack, whatever your idea — we help you ship it. 🚀
 
 ## 🚀 What We Do
 
-<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/assets/services.svg" width="100%" alt="services"/>
+<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/services.svg" width="100%" alt="services"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/divider.svg" width="100%"/>
 
 <div align="center">
 
 ## 💻 Live From Our Terminal
 
-<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/assets/terminal.svg" width="85%" alt="terminal"/>
+<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/terminal.svg" width="85%" alt="terminal"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/divider.svg" width="100%"/>
 
 <div align="center">
 
 ## 🛠️ Tech We Work With
 
-<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/assets/marquee.svg" width="100%" alt="tech marquee"/>
+<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/marquee.svg" width="100%" alt="tech marquee"/>
 
 <br/>
 
@@ -79,7 +79,7 @@ Whatever your stack, whatever your idea — we help you ship it. 🚀
 
 </div>
 
-<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -98,7 +98,7 @@ Whatever your stack, whatever your idea — we help you ship it. 🚀
 
 </div>
 
-<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -118,7 +118,7 @@ flowchart LR
 
 </div>
 
-<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -140,7 +140,7 @@ flowchart LR
 
 </div>
 
-<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -162,7 +162,7 @@ git push origin feature/amazing-idea
 ### 💼 Need a Paid Project?
 Message us with your **idea, timeline and budget** — we'll reply with a plan and quote.
 
-<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -184,6 +184,6 @@ Message us with your **idea, timeline and budget** — we'll reply with a plan a
 
 </div>
 
-<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/CodeExpertX/.github/main/profile/divider.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0A5CFF,100:040A1E&height=180&section=footer&text=CodeExpertX&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=68&desc=Elevating%20Development&descAlignY=88&descSize=16" width="100%"/>
