@@ -173,10 +173,6 @@ Message us with your **idea, timeline and budget** — we'll reply with a plan a
 <a href="mailto:contact@codeexpertx.com"><img src="https://img.shields.io/badge/Email-Contact%20Us-0A5CFF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://codeexpertx.com"><img src="https://img.shields.io/badge/Website-Visit-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <br/>
-<a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://youtube.com/@YOUR-CHANNEL"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://instagram.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/company/YOUR-PAGE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
 
